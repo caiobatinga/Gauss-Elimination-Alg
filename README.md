@@ -1,4 +1,4 @@
-**This algorithm can solve an upper and lower triangle system**
+#This algorithm can solve an upper and lower triangle system
 Through gauss elimination and LU decompossion this algorithm can solve any n*n matrix
 
 Problem:
